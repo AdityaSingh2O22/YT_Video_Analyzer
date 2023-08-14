@@ -1,5 +1,5 @@
 # YT_Video_Analyzer
-YouTube video analyzer 
+YouTube Video Analyzer 
 
 # Features :
 1.Basic GUI.
