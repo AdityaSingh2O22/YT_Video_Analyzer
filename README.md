@@ -1,7 +1,7 @@
 # YT_Video_Analyzer
 YouTube video analyzer 
 
-Features :
+# Features :
 1.Basic GUI.
 2.Fetches comments, video details, thumbnail, etc.
 3.Visual representaion of data between likes,dislikes, comments, views.
